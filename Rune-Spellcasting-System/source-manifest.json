@@ -1,0 +1,259 @@
+{
+  "place_id": 137133797633202,
+  "universe_id": 10026467440,
+  "source_policy": "Unmodified UTF-8 exports of Roblox Studio Source properties; no refactoring, inserted comments, or line-ending normalization.",
+  "files": [
+    {
+      "studio_path": "game.ReplicatedStorage.Modules.Data.Runes",
+      "class": "ModuleScript",
+      "file": "ReplicatedStorage/Modules/Data/Runes.luau",
+      "bytes": 6680,
+      "sha256": "969ae7537a14313e09ba83aeae872d77dda4f6aa292e3dcf5e78ab01c4589a00"
+    },
+    {
+      "studio_path": "game.ServerScriptService.Server.Match.LoadMap.ItemSpawning.Rune",
+      "class": "ModuleScript",
+      "file": "ServerScriptService/Server/Match/LoadMap/ItemSpawning/Rune.luau",
+      "bytes": 3642,
+      "sha256": "95f7c02fb2bc27bfdcf6987b7277ff96f7eda48170fe504f38be933eeb689f3a"
+    },
+    {
+      "studio_path": "game.ServerScriptService.Server.PlayerActions.Ability.BlackHole",
+      "class": "ModuleScript",
+      "file": "ServerScriptService/Server/PlayerActions/Ability/BlackHole.luau",
+      "bytes": 3073,
+      "sha256": "c87d0ad021576d8fd452e08fe4b5d70084943e1f7e251e1857a0de32dee969fa"
+    },
+    {
+      "studio_path": "game.ServerScriptService.Server.PlayerActions.Ability.CalamityWard",
+      "class": "ModuleScript",
+      "file": "ServerScriptService/Server/PlayerActions/Ability/CalamityWard.luau",
+      "bytes": 467,
+      "sha256": "1153ca3c59ec759fcfa4268d38ea104aa95fa77d3436527b7ac614f3427fb70f"
+    },
+    {
+      "studio_path": "game.ServerScriptService.Server.PlayerActions.Ability.Doppelganger",
+      "class": "ModuleScript",
+      "file": "ServerScriptService/Server/PlayerActions/Ability/Doppelganger.luau",
+      "bytes": 6206,
+      "sha256": "4e2c5cb8164d108b78710d8b1993476154d4c94a8c7a8a2f57cb9a6042deb80c"
+    },
+    {
+      "studio_path": "game.ServerScriptService.Server.PlayerActions.Ability.Flashbang",
+      "class": "ModuleScript",
+      "file": "ServerScriptService/Server/PlayerActions/Ability/Flashbang.luau",
+      "bytes": 419,
+      "sha256": "318ab8fa5105c41853a12d219ab90aa6f3aa60766204363cd374b87517b5fffc"
+    },
+    {
+      "studio_path": "game.ServerScriptService.Server.PlayerActions.Ability.FrightPocket",
+      "class": "ModuleScript",
+      "file": "ServerScriptService/Server/PlayerActions/Ability/FrightPocket.luau",
+      "bytes": 418,
+      "sha256": "9916b9651c3c844525f99bce3587b84818e44302d92b1c7d9833e9b466f59294"
+    },
+    {
+      "studio_path": "game.ServerScriptService.Server.PlayerActions.Ability.FrightTrap",
+      "class": "ModuleScript",
+      "file": "ServerScriptService/Server/PlayerActions/Ability/FrightTrap.luau",
+      "bytes": 714,
+      "sha256": "163d9b1f738884c93e5da3b0ec4a4f1949423783b8f7dc19b7a0f21d26856354"
+    },
+    {
+      "studio_path": "game.ServerScriptService.Server.PlayerActions.Ability.GloomShroud",
+      "class": "ModuleScript",
+      "file": "ServerScriptService/Server/PlayerActions/Ability/GloomShroud.luau",
+      "bytes": 878,
+      "sha256": "96a8ab5b85b4c839d5f724c7b69cf0a2ef60f6ba3baf02b7a774b2f48b2d0017"
+    },
+    {
+      "studio_path": "game.ServerScriptService.Server.PlayerActions.Ability.HauntingDecoy",
+      "class": "ModuleScript",
+      "file": "ServerScriptService/Server/PlayerActions/Ability/HauntingDecoy.luau",
+      "bytes": 554,
+      "sha256": "5d3b0b10fdf0bdce64d47c744ae53e5e86da0081c6ebca6acb51f5cd2b1ef05a"
+    },
+    {
+      "studio_path": "game.ServerScriptService.Server.PlayerActions.Ability.Hopscotch",
+      "class": "ModuleScript",
+      "file": "ServerScriptService/Server/PlayerActions/Ability/Hopscotch.luau",
+      "bytes": 627,
+      "sha256": "3ace138f34ddeb7e29f3b375d1918290c81f0d34910ffe4ecf862fb7ed3f2436"
+    },
+    {
+      "studio_path": "game.ServerScriptService.Server.PlayerActions.Ability.ItFollows",
+      "class": "ModuleScript",
+      "file": "ServerScriptService/Server/PlayerActions/Ability/ItFollows.luau",
+      "bytes": 12293,
+      "sha256": "d5530dcc9d444dcb93cb36981c8fc0ebc24c71f9b94e58c04133ef2e7f8834ae"
+    },
+    {
+      "studio_path": "game.ServerScriptService.Server.PlayerActions.Ability.PerilSight",
+      "class": "ModuleScript",
+      "file": "ServerScriptService/Server/PlayerActions/Ability/PerilSight.luau",
+      "bytes": 1538,
+      "sha256": "7fb6871398631b66f911c8d5d8fef8761ed6d62d3dded258330853b16fc524ca"
+    },
+    {
+      "studio_path": "game.ServerScriptService.Server.PlayerActions.Ability.RunicSight",
+      "class": "ModuleScript",
+      "file": "ServerScriptService/Server/PlayerActions/Ability/RunicSight.luau",
+      "bytes": 1468,
+      "sha256": "7e710f3f79dcbab4a3468c140feaa966319902976ab3a5b8facfabe92b7b92f1"
+    },
+    {
+      "studio_path": "game.ServerScriptService.Server.PlayerActions.Ability.StaticCharge",
+      "class": "ModuleScript",
+      "file": "ServerScriptService/Server/PlayerActions/Ability/StaticCharge.luau",
+      "bytes": 268,
+      "sha256": "d0f130fd593d0a399226a42198f8b46146da48e6f2ef8e8450c19d948d4dcbd4"
+    },
+    {
+      "studio_path": "game.ServerScriptService.Server.PlayerActions.Ability.TellBells",
+      "class": "ModuleScript",
+      "file": "ServerScriptService/Server/PlayerActions/Ability/TellBells.luau",
+      "bytes": 1355,
+      "sha256": "1445b10adf6019725963bee48d2a524cf1097087884d28764cb7118b255a27fa"
+    },
+    {
+      "studio_path": "game.ServerScriptService.Server.PlayerActions.Ability.Tempest",
+      "class": "ModuleScript",
+      "file": "ServerScriptService/Server/PlayerActions/Ability/Tempest.luau",
+      "bytes": 2222,
+      "sha256": "145adcee22e1cf21d74dbc0d778199460e6e3e22ec19d764e3afcce4ed73a52d"
+    },
+    {
+      "studio_path": "game.ServerScriptService.Server.PlayerActions.Ability",
+      "class": "ModuleScript",
+      "file": "ServerScriptService/Server/PlayerActions/Ability/init.luau",
+      "bytes": 3208,
+      "sha256": "92fd0e56f99f4d9909c05398089d613185c02d825b7348af6bfcf95830cbc027"
+    },
+    {
+      "studio_path": "game.ServerScriptService.Server.Traps",
+      "class": "ModuleScript",
+      "file": "ServerScriptService/Server/Traps.luau",
+      "bytes": 8537,
+      "sha256": "6eae33b6dab4a40c615c93840777f8b03f5ee394482738e202203093f51a8489"
+    },
+    {
+      "studio_path": "game.ServerScriptService.Server.WardService",
+      "class": "ModuleScript",
+      "file": "ServerScriptService/Server/WardService.luau",
+      "bytes": 3208,
+      "sha256": "1888fcb5c1360c0e6c42221b314b7df0dfc130f6ca0acc69d753d8599f521e7e"
+    },
+    {
+      "studio_path": "game.StarterPlayer.StarterPlayerScripts.Client.Abilities.Hopscotch",
+      "class": "ModuleScript",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Abilities/Hopscotch.luau",
+      "bytes": 7965,
+      "sha256": "542c557f7efebaec70a702464ddcbfad109aa631aa91c294113d7ff56370735a"
+    },
+    {
+      "studio_path": "game.StarterPlayer.StarterPlayerScripts.Client.Abilities.RevealTraps",
+      "class": "ModuleScript",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Abilities/RevealTraps.luau",
+      "bytes": 558,
+      "sha256": "b9a87bc3805faf762f193b91936f3faae90984498fdaa60e4ea4421e9d5dda8f"
+    },
+    {
+      "studio_path": "game.StarterPlayer.StarterPlayerScripts.Client.Abilities.SeeNearbyRunes",
+      "class": "ModuleScript",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Abilities/SeeNearbyRunes.luau",
+      "bytes": 1540,
+      "sha256": "fe2f8115329615096bc2a96a7a0b1211642b3028be23fa9ee55a5fb1d4cf4262"
+    },
+    {
+      "studio_path": "game.StarterPlayer.StarterPlayerScripts.Client.Abilities.Tempest",
+      "class": "ModuleScript",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Abilities/Tempest.luau",
+      "bytes": 1842,
+      "sha256": "d404b6cf1bf7cd4bcc14a83a6220f0f2b53991d85f7f70b54f8d681ee712797e"
+    },
+    {
+      "studio_path": "game.StarterPlayer.StarterPlayerScripts.Client.Abilities",
+      "class": "ModuleScript",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Abilities/init.luau",
+      "bytes": 657,
+      "sha256": "fce6f60e3c7ee0a5446337fd703ed76b3792e6846701f1d127441e60a5d3ec46"
+    },
+    {
+      "studio_path": "game.StarterPlayer.StarterPlayerScripts.Client.DetectCollectionInstances.Runes",
+      "class": "ModuleScript",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/DetectCollectionInstances/Runes.luau",
+      "bytes": 2422,
+      "sha256": "53d599f4bd62f52cc8cabf84f67d3130fe9c062bcc3f30ee95cfc2b9b3796098"
+    },
+    {
+      "studio_path": "game.StarterPlayer.StarterPlayerScripts.Client.Keybinds.Ability",
+      "class": "ModuleScript",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Keybinds/Ability.luau",
+      "bytes": 3672,
+      "sha256": "e677e4fc01c1fa760b7ddd1b7bd4969455804f5de324055d33424ad6f9e625dd"
+    },
+    {
+      "studio_path": "game.StarterPlayer.StarterPlayerScripts.Client.VFX.Abilities.BlackHole",
+      "class": "ModuleScript",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/VFX/Abilities/BlackHole.luau",
+      "bytes": 5671,
+      "sha256": "bf0a45e4d15118dacea3bba2850a2ba9dfa94a8d653530255fc2f2d6da2ec3ed"
+    },
+    {
+      "studio_path": "game.StarterPlayer.StarterPlayerScripts.Client.VFX.Abilities.CalamityWard",
+      "class": "ModuleScript",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/VFX/Abilities/CalamityWard.luau",
+      "bytes": 1291,
+      "sha256": "2df0c1f2b59cb3fd5f540fe0c82dbd961aa86c76f7b32688aaf189cd18329a40"
+    },
+    {
+      "studio_path": "game.StarterPlayer.StarterPlayerScripts.Client.VFX.Abilities.Flashbang",
+      "class": "ModuleScript",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/VFX/Abilities/Flashbang.luau",
+      "bytes": 3031,
+      "sha256": "29f2ae33e567b59368e899bb965ba8882bf93c088f445d769981b9279c232bd8"
+    },
+    {
+      "studio_path": "game.StarterPlayer.StarterPlayerScripts.Client.VFX.Abilities.FrightPocket",
+      "class": "ModuleScript",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/VFX/Abilities/FrightPocket.luau",
+      "bytes": 1342,
+      "sha256": "9c3a6ac36b54e5e95f541fd8de66c5ac6b5697083e1497d9b0d301c341c2be36"
+    },
+    {
+      "studio_path": "game.StarterPlayer.StarterPlayerScripts.Client.VFX.Abilities.FrightTrap",
+      "class": "ModuleScript",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/VFX/Abilities/FrightTrap.luau",
+      "bytes": 4691,
+      "sha256": "7908288086374ca2744a6ddcf80e4b81fa530be28a92db974b674f5d3439d0f6"
+    },
+    {
+      "studio_path": "game.StarterPlayer.StarterPlayerScripts.Client.VFX.Abilities.GloomShroud",
+      "class": "ModuleScript",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/VFX/Abilities/GloomShroud.luau",
+      "bytes": 1267,
+      "sha256": "6df3dff14fce03ec2a0968c72a7765541c688ffa234bf92998a7540b1f9f62d4"
+    },
+    {
+      "studio_path": "game.StarterPlayer.StarterPlayerScripts.Client.VFX.Abilities.Hopscotch",
+      "class": "ModuleScript",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/VFX/Abilities/Hopscotch.luau",
+      "bytes": 4695,
+      "sha256": "1826cc5e9e22629856df25739687a89390c3ef3c0ade931f9db7b8381a3a8c83"
+    },
+    {
+      "studio_path": "game.StarterPlayer.StarterPlayerScripts.Client.VFX.Abilities.ItFollows",
+      "class": "ModuleScript",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/VFX/Abilities/ItFollows.luau",
+      "bytes": 4561,
+      "sha256": "d34b6223ce3aa8341bccf5ca120fa837c917ee6a5c7bd44c8829b8db2d275aed"
+    },
+    {
+      "studio_path": "game.StarterPlayer.StarterPlayerScripts.Client.VFX.Abilities.TellBells",
+      "class": "ModuleScript",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/VFX/Abilities/TellBells.luau",
+      "bytes": 2437,
+      "sha256": "074dd31bcc41e1ab2d1976bd5c5e01d8837d6628b24f14b8a93d4b9ed57c6ae0"
+    }
+  ]
+}
